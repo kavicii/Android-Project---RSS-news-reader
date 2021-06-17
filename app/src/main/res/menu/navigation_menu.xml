@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/bbc"
+        android:title="BBC"/>
+    <item android:id="@+id/abc"
+        android:title="American Broadcasting Company"/>
+    <item android:id="@+id/rthke"
+        android:title="RTHK English"/>
+    <item android:id="@+id/rthkc"
+        android:title="RTHK Chinese"/>
+    <item android:id="@+id/ad"
+        android:title="Apple Daily"/>
+    <item android:id="@+id/im"
+        android:title="Initium Media"/>
+    <item android:id="@+id/add"
+        android:title="add New RSS"/>
+
+</menu>
